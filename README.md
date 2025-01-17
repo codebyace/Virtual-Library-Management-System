@@ -1,6 +1,6 @@
 Objective: 
 
-The Library Management System is a console-based application developed in C++ that allows admins and students to manage library resources effectively. The system enables students to access the library data by registering or logging in to their accounts. Admins have the ability to manage the books and students' accounts. The system supports adding, editing, and viewing books, as well as managing student accounts, issuing books, and handling fines.
+The Virtual Library Management System is a console-based application developed in C++ that allows admins and students to manage library resources effectively. The system enables students to access the library data by registering or logging in to their accounts. Admins have the ability to manage the books and students' accounts. The system supports adding, editing, and viewing books, as well as managing student accounts, issuing books, and handling fines.
 
 Overview: The application is developed in C++ and does not utilize classes, pointers, or structures. It makes use of 2D arrays, functions, loops, if-else statements, and switch cases to achieve the intended functionality. The main() function manages user input, offers options to the user, and invokes the corresponding functions based on the user's chosen option. The program operates in a loop until the user opts to exit.
 
